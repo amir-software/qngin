@@ -55,3 +55,9 @@ include = [
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 pythonpath = ["src"]
+
+[project.urls]
+Homepage = "https://github.com/YOUR_USER/qngin"
+Repository = "https://github.com/YOUR_USER/qngin"
+Issues = "https://github.com/YOUR_USER/qngin/issues"
+Changelog = "https://github.com/YOUR_USER/qngin/blob/main/CHANGELOG.md"
